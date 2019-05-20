@@ -1,2 +1,1 @@
-Thanks for download it
-i hope u enjoy my first tool :)
+u need to install requests and figlet..
