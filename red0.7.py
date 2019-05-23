@@ -63,6 +63,7 @@ def passgen(target):
 	sleep(2)
 	print('\033[1;35;20m[#] Saved to Current Directory..')
 	sleep(3)
+	os.system('clear')
 	main()
 def scanner(host):
 	socket.setdefaulttimeout(1)
