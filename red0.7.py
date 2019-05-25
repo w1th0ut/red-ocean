@@ -490,7 +490,7 @@ def main():
 	[4] Find Admin Panel
 	[5] Port Scan
 	
-	[0] \033[1;31;20mEXIT
+	[0] \033[1;31;20mEXIT                 \033[1;35;20m*New Version Available*
 												       """                                             
 	print ("\033[1;31;20m\n" + banner)
 	select = raw_input('\033[1;35;20mRedOcean> \033[1;32;20m')
