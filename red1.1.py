@@ -1,5 +1,5 @@
 #Thanks for try my code.. hope you enjoy :)
-#Follow my Instagram: @bgsrzk.py
+#Follow my Instagram: @bags.rz
 #Stay tune for update :)
 import socket
 import os
@@ -31,7 +31,7 @@ def main():
 	*                                             *
 	*       \033[1;34mAuthor   : Bagas(REGEX)\033[1;31m               *
 	*       \033[1;39mTeam     : DarkArmy\033[1;31m                   *
-	*       \033[1;33mInstagram: bgsrzk.py\033[1;31m                  *
+	*       \033[1;33mInstagram: bagas.rz\033[1;31m                   *
 	*       \033[1;37mVersion  : Beta 1.1\033[1;31m                   *
 	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 	\033[1;32;20m[1] HTTP Banner          [6] Password Generator
