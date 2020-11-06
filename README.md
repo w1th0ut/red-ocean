@@ -1,7 +1,7 @@
 # RED-OCEAN
 
 Simple bot for scan the surface of the website and many more.
-
+(outdated bot, some function maybe not working)
 ## Requirements
 
 1. requirements.txt
