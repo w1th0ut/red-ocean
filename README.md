@@ -1,7 +1,9 @@
 # RED-OCEAN
 
 Simple bot for scan the surface of the website and many more.
-(outdated bot, some function maybe not working)
+(outdated bot, some function maybe not working).
+
+Maybe next time, i will make this tool for python3.
 ## Requirements
 
 1. requirements.txt
