@@ -15,7 +15,7 @@ you need install all requirements in `requirements.txt`.
 ```bash
 git clone https://github.com/w1th0ut/red-ocean.git
 cd red-ocean
-pip3 install -r requirements.txt
+pip2 install -r requirements.txt
 ```
 
 ## Usage
